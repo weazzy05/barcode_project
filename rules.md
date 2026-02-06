@@ -64,7 +64,7 @@ RULE 4.2: ❌ NEVER use UI types in Cubit
 (Widget, Color, Theme, TextStyle).
 
 RULE 4.3: CLEAN UP resources in close().
-
+ду
 UI & Widget Architecture (Bloc-based)
 1. Core UI Principles
 RULE 1.1: UI = pure function of State.
